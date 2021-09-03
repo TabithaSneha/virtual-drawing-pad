@@ -31,3 +31,5 @@ The object was tracked and its path was drawn.
 Hence, the Virtual Drawing Pad was successfully constructed.
 
 ## Link to view project
+
+Click [here] (https://drive.google.com/file/d/1tglRFiVe8_JYRL1ZRvvLwIqzjc9aXocv/view?usp=sharing) to view the demonstration of a Virtual Drawing Pad.
